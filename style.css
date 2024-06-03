@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#log{
+    /* width: 50px; */
+    
+}
+
+.container-fluid{
+    background-color:;
+    background-color: transparent
+    background-color: ;
+    height: 80px;
+}
+
+#but{
+margin-left: -300px;
+background-color: #BFBFBF;
+    width: 800px;
+}
+
+#form{
+   margin-right: 30px;
+   gap: 30px;
+}
+#one{
+    display: flex;
+    margin-left: -100px;
+    /* gap: 20px ; */
+}
+
+#form button{
+    width: 100px;
+    border: white;
+    border-radius: 3px;
+}
+
